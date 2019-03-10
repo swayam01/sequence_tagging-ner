@@ -20,3 +20,4 @@ python train.py
 ```
 python evaluate.py
 ```
+Ref: https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html
